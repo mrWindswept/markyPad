@@ -1,4 +1,4 @@
-# 📌 MarkyPad
+# 📌 markyPad
 
 > Snap sticky markdown notes onto any page, code block, or repo.
 
@@ -8,7 +8,7 @@
 
 ## 🧠 Overview
 
-MarkyPad is a lightweight Chrome extension designed for developers, learners, and reviewers who want to leave contextual, markdown-powered notes on any webpage—especially helpful for codebases, documentation, or GitHub PRs.
+markyPad is a lightweight Chrome extension designed for developers, learners, and reviewers who want to leave contextual, markdown-powered notes on any webpage—especially helpful for codebases, documentation, or GitHub PRs.
 
 ---
 
@@ -47,7 +47,7 @@ MarkyPad is a lightweight Chrome extension designed for developers, learners, an
 
 ```bash
 git clone https://github.com/mrWindswept/markyPad.git
-cd markypad
+cd markyPad
 
 #install dependencies
 npm install
@@ -89,7 +89,7 @@ npm run build
 #### 📁 Folder structure
 
 ```
-markypad/
+markyPad/
 ├── public/                 # Static assets (icons, sidepanel HTML)
 │   ├── manifest.json       # Chrome Extension manifest v3
 ├── src/
@@ -105,7 +105,7 @@ markypad/
 
 ## 📄 License
 
-MIT © [[Kunal Patil](https://github.com/mrWindswept/)]
+MIT © [[Kunal Patil](https://github.com/mrWindswept/markyPad?tab=MIT-1-ov-file)]
 
 ---
 
@@ -123,9 +123,9 @@ MIT © [[Kunal Patil](https://github.com/mrWindswept/)]
 
 ---
 
-# 🛠 Contributing to MarkyPad
+# 🛠 Contributing to markyPad
 
-Thank you for considering contributing to **MarkyPad** — your efforts help make this extension better for everyone! This document outlines the process for contributing code, reporting issues, and proposing enhancements.
+Thank you for considering contributing to **markyPad** — your efforts help make this extension better for everyone! This document outlines the process for contributing code, reporting issues, and proposing enhancements.
 
 ---
 
@@ -144,7 +144,7 @@ Thank you for considering contributing to **MarkyPad** — your efforts help mak
 
 ```bash
 git clone https://github.com/mrWindswept/markyPad.git
-cd markypad
+cd markyPad
 npm install
 ```
 
