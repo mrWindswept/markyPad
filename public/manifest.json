@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "MarkyPad",
+  "version": "1.0",
+  "description": "Snap sticky markdown notes onto any page, code block, or repo.",
+  "action": {
+    "default_title": "Sticky Note",
+    "default_icon": {
+      "16": "markyPad.png",
+      "48": "markyPad.png",
+      "128": "markyPad.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["note-script.js"],
+      "css": ["note-script.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "host_permissions": ["<all_urls>"],
+  "permissions": ["storage", "scripting", "tabs"],
+  "icons": {
+    "16": "markyPad.png",
+    "48": "markyPad.png",
+    "128": "markyPad.png"
+  }
+}
