@@ -10,6 +10,9 @@
 
 markyPad is a lightweight Chrome extension designed for developers, learners, and reviewers who want to leave contextual, markdown-powered notes on any webpage—especially helpful for codebases, documentation, or GitHub PRs.
 
+[![Featured on Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=980221&theme=light&t=1750230472445)](https://www.producthunt.com/products/github-114?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-880b1d61-4202-4b00-aa72-08751bbe0b51)
+
+
 ---
 
 ---
